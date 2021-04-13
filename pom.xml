@@ -293,5 +293,12 @@
         </pluginRepository>
     </pluginRepositories>
 
+	
+<properties>
+  <sonar.projectKey>d-x-v7_WebGoat-Clone</sonar.projectKey>
+  <sonar.organization>d-x-v7</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+</properties>
+	
 
 </project>
